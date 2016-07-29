@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: "Xuyang, thunderlast, thundertrick"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -34,6 +34,7 @@ menu:
   archives: /archives
   tags: /tags
   #commonweal: /404.html
+  guestbook: /guestbook
 
 
 # Enable/Disable menu icons.
