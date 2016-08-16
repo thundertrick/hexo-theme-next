@@ -240,6 +240,7 @@ mathjax:
 
 # Baidu Analytics ID
 #baidu_analytics:
+baidu_site_verification: true
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -262,7 +263,7 @@ disqus_shortname: http-thundertrick-github-io
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-#google_site_verification:
+google_site_verification: true
 
 
 # Google Analytics
@@ -328,7 +329,7 @@ busuanzi_count:
 # tencent_analytics:
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: false
+baidu_push: true
 
 
 
