@@ -11,7 +11,7 @@ keywords: "Xuyang, thunderlast, thundertrick"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: /atom.xml
 
 # Specify the date when the site was setup
 #since: 2015
@@ -42,6 +42,7 @@ menu:
   tags: /tags
   #commonweal: /404.html
   guestbook: /guestbook
+  rss: /atom
 
 
 # Enable/Disable menu icons.
@@ -58,6 +59,7 @@ menu_icons:
   tags: tags
   archives: archive
   commonweal: heartbeat
+  rss: rss
 
 
 
