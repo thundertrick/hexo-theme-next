@@ -252,10 +252,10 @@ mathjax:
 baidu_site_verification: true
 
 # Duoshuo ShortName
-#duoshuo_shortname:
+duoshuo_shortname: thundertrick
 
 # Disqus
-disqus_shortname: http-thundertrick-github-io
+# disqus_shortname: http-thundertrick-github-io
 
 # Baidu Share
 # Available value:
@@ -287,9 +287,9 @@ google_site_verification: true
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 duoshuo_info:
   ua_enable: true
-  admin_enable: false
-  user_id: 0
-  #admin_nickname: Author
+  admin_enable: true
+  user_id: 3712769
+  admin_nickname: Author
 
 
 # Facebook SDK Support.
